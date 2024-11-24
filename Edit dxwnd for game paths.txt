@@ -1,0 +1,9 @@
+path0= PATH TO EXE 'Haegemonia - Legions of Iron' Game.exe
+
+path0= PATH TO EXE 'Haegemonia - The Solon Heritage' Hgma.exe
+
+
+Examples
+path0=D:\Games\Haegemonia - Legions of Iron\Game.exe
+
+path0=D:\Games\Haegemonia - The Solon Heritage\Hgma.exe
